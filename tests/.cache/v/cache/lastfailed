@@ -1,0 +1,4 @@
+{
+  "test_paint_factory.py::TestsPaintFactory::test_add_ingredient_capacity_name": true,
+  "test_paint_factory.py::TestsPaintFactory::test_parent_class_init": true
+}

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e38bf32-f414-4af4-9344-452834c9db26" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1a6qsEdDO4RhsWuAfdU6jHvxzQC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_paint_factory.TestsPaintFactory">
+    <configuration name="pytest for test_paint_factory.TestsPaintFactory" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="exam-skeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_paint_factory.TestsPaintFactory&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_paint_factory.TestsPaintFactory.test_add_ingredient_several" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="exam-skeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_paint_factory.TestsPaintFactory.test_add_ingredient_several&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_paint_factory.TestsPaintFactory.test_beginner_inherits_player" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="exam-skeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_paint_factory.TestsPaintFactory.test_beginner_inherits_player&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_paint_factory.TestsPaintFactory.test_remove_ingredient_negative_value" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="exam-skeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_paint_factory.TestsPaintFactory.test_remove_ingredient_negative_value&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_paint_factory.TestsPaintFactory.test_remove_ingredient_no_key" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="exam-skeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_paint_factory.TestsPaintFactory.test_remove_ingredient_no_key&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_paint_factory.TestsPaintFactory" />
+        <item itemvalue="Python tests.pytest for test_paint_factory.TestsPaintFactory.test_beginner_inherits_player" />
+        <item itemvalue="Python tests.pytest for test_paint_factory.TestsPaintFactory.test_add_ingredient_several" />
+        <item itemvalue="Python tests.pytest for test_paint_factory.TestsPaintFactory.test_remove_ingredient_no_key" />
+        <item itemvalue="Python tests.pytest for test_paint_factory.TestsPaintFactory.test_remove_ingredient_negative_value" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e38bf32-f414-4af4-9344-452834c9db26" name="Default Changelist" comment="" />
+      <created>1586066595734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586066595734</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1373" y="100" width="1094" height="1207" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586074581229">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1373" y="100" width="1094" height="1207" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586074581229" />
+    <state x="1725" y="419" key="#com.intellij.ide.util.MemberChooser" timestamp="1586070570015">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1725" y="419" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1586070570015" />
+    <state width="1256" height="491" key="GridCell.Tab.0.bottom" timestamp="1586083024783">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="491" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1586083024783" />
+    <state width="1256" height="491" key="GridCell.Tab.0.center" timestamp="1586083024783">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="491" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1586083024783" />
+    <state width="1256" height="491" key="GridCell.Tab.0.left" timestamp="1586083024783">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="491" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1586083024783" />
+    <state width="1256" height="491" key="GridCell.Tab.0.right" timestamp="1586083024783">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="491" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1586083024783" />
+    <state width="1256" height="491" key="GridCell.Tab.1.bottom" timestamp="1586083024783">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="491" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1586083024783" />
+    <state width="1256" height="491" key="GridCell.Tab.1.center" timestamp="1586083024783">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="491" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1586083024783" />
+    <state width="1256" height="491" key="GridCell.Tab.1.left" timestamp="1586083024783">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="491" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1586083024783" />
+    <state width="1256" height="491" key="GridCell.Tab.1.right" timestamp="1586083024783">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1256" height="491" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1586083024783" />
+    <state x="1477" y="560" key="com.intellij.ide.util.TipDialog" timestamp="1586086038790">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1477" y="560" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586086038790" />
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1586069750230">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1586069750230" />
+  </component>
+</project>
